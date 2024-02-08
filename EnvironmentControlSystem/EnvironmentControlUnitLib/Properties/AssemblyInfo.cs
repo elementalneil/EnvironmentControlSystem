@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EnvironmentControlUnit")]
+[assembly: AssemblyTitle("EnvironmentControlUnitLib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Carl Zeiss AG")]
-[assembly: AssemblyProduct("EnvironmentControlUnit")]
+[assembly: AssemblyProduct("EnvironmentControlUnitLib")]
 [assembly: AssemblyCopyright("Copyright © Carl Zeiss AG 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("492d82a3-5ac4-444e-857a-bbdd50e14eda")]
+[assembly: Guid("abbffeda-629e-4666-9117-6cedf541aa09")]
 
 // Version information for an assembly consists of the following four values:
 //

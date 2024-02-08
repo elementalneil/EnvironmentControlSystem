@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Threading;
 
+using OutsideTempLib;
+using PeopleCounterlib;
+using TemperatureCalculatorLib;
+using TemperatureRegulatorLib;
+
 namespace EnvironmentControlUnit {
     public class ECU {
         private readonly IOutsideTempSensor outsideTempSensor;
