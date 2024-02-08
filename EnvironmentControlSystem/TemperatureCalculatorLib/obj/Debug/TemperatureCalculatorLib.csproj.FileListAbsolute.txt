@@ -1,0 +1,6 @@
+C:\Users\x6cmitta\source\repos\ACClimateControlSystem\TemperatureCalculatorLib\bin\Debug\TemperatureCalculatorLib.dll
+C:\Users\x6cmitta\source\repos\ACClimateControlSystem\TemperatureCalculatorLib\bin\Debug\TemperatureCalculatorLib.pdb
+C:\Users\x6cmitta\source\repos\ACClimateControlSystem\TemperatureCalculatorLib\obj\Debug\TemperatureCalculatorLib.csproj.AssemblyReference.cache
+C:\Users\x6cmitta\source\repos\ACClimateControlSystem\TemperatureCalculatorLib\obj\Debug\TemperatureCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\x6cmitta\source\repos\ACClimateControlSystem\TemperatureCalculatorLib\obj\Debug\TemperatureCalculatorLib.dll
+C:\Users\x6cmitta\source\repos\ACClimateControlSystem\TemperatureCalculatorLib\obj\Debug\TemperatureCalculatorLib.pdb
