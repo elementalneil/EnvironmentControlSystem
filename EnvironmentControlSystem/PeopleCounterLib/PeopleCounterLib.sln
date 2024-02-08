@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCounterLib", "PeopleCounterLib\PeopleCounterLib.csproj", "{EC9DF9B7-B0EB-4987-A490-C7F3209D1C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureRegulatorLib", "..\TemperatureRegulatorLib\TemperatureRegulatorLib.csproj", "{D324B65D-CB5C-44AE-899A-73080C78A73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9DF9B7-B0EB-4987-A490-C7F3209D1C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9DF9B7-B0EB-4987-A490-C7F3209D1C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9DF9B7-B0EB-4987-A490-C7F3209D1C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9DF9B7-B0EB-4987-A490-C7F3209D1C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D324B65D-CB5C-44AE-899A-73080C78A73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D324B65D-CB5C-44AE-899A-73080C78A73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D324B65D-CB5C-44AE-899A-73080C78A73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D324B65D-CB5C-44AE-899A-73080C78A73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E216C2-ABDD-4064-9368-6408277B7070}
+	EndGlobalSection
+EndGlobal
