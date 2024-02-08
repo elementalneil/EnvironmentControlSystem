@@ -1,0 +1,6 @@
+C:\My Files\Visual Studio Repos\EnvironmentControlSystem\EnvironmentControlUnit\bin\Debug\EnvironmentControlUnit.dll
+C:\My Files\Visual Studio Repos\EnvironmentControlSystem\EnvironmentControlUnit\bin\Debug\EnvironmentControlUnit.pdb
+C:\My Files\Visual Studio Repos\EnvironmentControlSystem\EnvironmentControlUnit\obj\Debug\EnvironmentControlUnit.csproj.AssemblyReference.cache
+C:\My Files\Visual Studio Repos\EnvironmentControlSystem\EnvironmentControlUnit\obj\Debug\EnvironmentControlUnit.csproj.CoreCompileInputs.cache
+C:\My Files\Visual Studio Repos\EnvironmentControlSystem\EnvironmentControlUnit\obj\Debug\EnvironmentControlUnit.dll
+C:\My Files\Visual Studio Repos\EnvironmentControlSystem\EnvironmentControlUnit\obj\Debug\EnvironmentControlUnit.pdb
