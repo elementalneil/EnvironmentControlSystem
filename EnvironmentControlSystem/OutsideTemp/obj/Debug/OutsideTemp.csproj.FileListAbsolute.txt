@@ -1,6 +1,0 @@
-C:\Users\x6shgole\source\repos\AutoClimate.cs\OutsideTemp\bin\Debug\OutsideTemp.dll
-C:\Users\x6shgole\source\repos\AutoClimate.cs\OutsideTemp\bin\Debug\OutsideTemp.pdb
-C:\Users\x6shgole\source\repos\AutoClimate.cs\OutsideTemp\obj\Debug\OutsideTemp.csproj.AssemblyReference.cache
-C:\Users\x6shgole\source\repos\AutoClimate.cs\OutsideTemp\obj\Debug\OutsideTemp.csproj.CoreCompileInputs.cache
-C:\Users\x6shgole\source\repos\AutoClimate.cs\OutsideTemp\obj\Debug\OutsideTemp.dll
-C:\Users\x6shgole\source\repos\AutoClimate.cs\OutsideTemp\obj\Debug\OutsideTemp.pdb
